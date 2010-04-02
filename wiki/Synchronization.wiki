@@ -20,7 +20,7 @@ The actual synchronization algorithm is almost independent of the actual source 
 
 =Algorithm=
 
-Based on the synchronization algorithm of [http://www.gargan.org/en/Mozilla_Extensions/SyncKolab/FAQ/ synckolab], the `SyncWorker` follows this plan numbers reference the source code):
+Based on the synchronization algorithm of [http://www.gargan.org/en/Mozilla_Extensions/SyncKolab/FAQ/ synckolab], the `SyncWorker` follows this plan (numbers reference comments and log messages in the source code):
 
   * (1) retrieve list of all imap message headers
   * for all messages:
