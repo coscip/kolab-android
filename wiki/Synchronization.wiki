@@ -10,6 +10,12 @@ The actual synchronization algorithm is almost independent of the actual source 
   * `SyncHandler` interface: defines the necessary operations to be able to synchronize a local data store
   * `AbstractSyncHandler`: common code for all local data stores
 
+The main data structure holding this together is the `SyncContext` and the `CacheEntry`.
+
+The *cache entry* holds the local hash and ID, as well as the remote Id (kolab uid), the IMAP UID and the remote changed date and size. This information allows us to find entries and recognize when they change. The local hash is a store-specific hash over properties, since the android doesn't notify us when an item has changed.
+
+The *context* connects the cache entry with the "real" objects. On the local side the business object and on the remote side the IMAP message.
+
 =Auxiliary Classes=
 
   * `BaseWorker`: basic threading and status management
