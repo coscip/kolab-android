@@ -40,3 +40,7 @@ Based on the synchronization algorithm of [http://www.gargan.org/en/Mozilla_Exte
     * a: skip already processed from server
     * b: found in local cache: deleting locally
     * c: not found in local cache: creating on server
+
+= Kolab data format =
+
+The messages on the server comply with the [http://www.kolab.org/doc/kolabformat-2.0rc7-html/index.html kolab specs]
