@@ -1,0 +1,21 @@
+#summary Version History of kolab-android
+#labels Featured
+
+= Upcoming =
+
+= 0.0.4 =
+
+* Set min SDK to Android 1.6
+* Fix sync loop if no birthday given
+* Set ID of contact cache entry correctly
+* Calendar Provider should not crash anymore.
+* Performance of processing items has been improved.
+* many other bugfixes
+
+
+= 0.0.3 =
+
+* Solved Issue #18: Syncing by pressing the "Sync" Button works with an SSL Certificate. 
+* Added synchronisation for contact notes and contact photos. Photos are yet only synced from Kolab to Android, not vice versa.
+* issue 13: added trust manager factory, supports non trusted SSL Certificates
+* many other bugfixes
