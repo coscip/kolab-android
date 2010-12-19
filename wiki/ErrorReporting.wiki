@@ -11,6 +11,7 @@ https://spreadsheets.google.com/ccc?key=0Au6e93kxiTMhdF9DbXo3ZmRTZ0swWWd6SThVNEp
 = How to Report an error =
 
 You will see an icon in the notification bar:
+
 http://kolab-android.googlecode.com/svn-history/r140/wiki/Error-01.png
 
 In the notification bar you'll see an Notification asking you to help fixing the error
