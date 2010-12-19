@@ -5,6 +5,13 @@
 
   * bugfixes
 
+= 0.0.5 =
+  * added acra error reporter
+  * fixed Issue 26: NullPointerException on Sync All (kolab-android 0.0.4, Froyo)
+  * retrieve IMAP Folders in settings view
+  * new preference value to save IMAP namespace
+  * improved settings test
+
 = 0.0.4 =
 
   * Set min SDK to Android 1.6
