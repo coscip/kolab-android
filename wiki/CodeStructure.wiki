@@ -1,6 +1,13 @@
 #summary Overview of the Implementation
 #labels Featured,Phase-Design
 
+= Location of Code =
+The Repository is located on gitorious:
+
+http://gitorious.org/kolab-android/kolab-android
+
+The Source Code of each released version is cloned to googles code project SVN Repository.
+
 = Local Libraries =
 
 The bulk of the source code are local copies of the javamail library and the JAF (Java Activation Framework) which are necessary to access the IMAP store. These parts are stored in the `javamail/` and `activation/` subdirectories.
