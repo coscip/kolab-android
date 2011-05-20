@@ -5,6 +5,11 @@
 
   * bugfixes
 
+= 0.6 =
+  * Major changes, see release notes
+  * switch to froyo branch, supporting Accounts & Synchronization
+  * support for own contacts and calendar items, no more conflicts with google accounts
+
 = 0.5 =
   * added acra error reporter
   * fixed Issue 26: NullPointerException on Sync All (kolab-android 0.4, Froyo)
