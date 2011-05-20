@@ -20,4 +20,4 @@ Then, under Accounts & Settings create a new Kolab Android Account. Setup IMAP a
 
 Finally, enable the sync. Sync should start and create new Contacts and a new Calendar.
 
-Sadly, we only support calendar sync on Android >= 2.2. Between 2.1 and 2.2 there are breaking changes we cannot bypass.
+Sadly, we have to provide two APKs for Android 2.1 and Android >= 2.2. This one is for Android >= 2.2.
