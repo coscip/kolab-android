@@ -5,14 +5,14 @@
 
   * bugfixes
 
-= 0.0.5 =
+= 0.5 =
   * added acra error reporter
-  * fixed Issue 26: NullPointerException on Sync All (kolab-android 0.0.4, Froyo)
+  * fixed Issue 26: NullPointerException on Sync All (kolab-android 0.4, Froyo)
   * retrieve IMAP Folders in settings view
   * new preference value to save IMAP namespace
   * improved settings test
 
-= 0.0.4 =
+= 0.4 =
 
   * Set min SDK to Android 1.6
   * Fix sync loop if no birthday given
@@ -22,7 +22,7 @@
   * many other bugfixes
 
 
-= 0.0.3 =
+= 0.3 =
 
   * Solved Issue #18: Syncing by pressing the "Sync" Button works with an SSL Certificate. 
   * Added synchronisation for contact notes and contact photos. Photos are yet only synced  from Kolab to Android, not vice versa.
