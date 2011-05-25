@@ -3,7 +3,11 @@
 
 = Upcoming =
 
-  * bugfixes
+  * bugfixes, analyzed crash reports
+  * only one APK for 2.1 and >= 2.2
+  * catch MessagingExceptions on individual items to prevent sync from stopping
+  * Ability to view and report fatal sync error messages
+  * Fixed wrong mapping of MinSyncInterval Spinner
 
 = 0.6 =
   * Major changes, see release notes
