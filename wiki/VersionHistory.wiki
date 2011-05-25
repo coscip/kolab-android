@@ -8,6 +8,7 @@
   * catch MessagingExceptions on individual items to prevent sync from stopping
   * Ability to view and report fatal sync error messages
   * Fixed wrong mapping of MinSyncInterval Spinner
+  * Made Account Manager looks nicer
 
 = 0.6 =
   * Major changes, see release notes
