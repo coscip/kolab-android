@@ -5,9 +5,9 @@
 
   * bugfixes, analyzed crash reports
   * only one APK for 2.1 and >= 2.2
-  * catch MessagingExceptions on individual items to prevent sync from stopping
+  * catch Messaging Exceptions on individual items to prevent sync from stopping
   * Ability to view and report fatal sync error messages
-  * Fixed wrong mapping of MinSyncInterval Spinner
+  * Fixed wrong mapping of min sync interval Spinner
   * Made Account Manager looks nicer
 
 = 0.6 =
