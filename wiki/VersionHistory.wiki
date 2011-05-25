@@ -2,6 +2,9 @@
 #labels Featured
 
 = Upcoming =
+  * bugfixes, analyzed crash reports
+
+= 0.7 =
 
   * bugfixes, analyzed crash reports
   * only one APK for 2.1 and >= 2.2
