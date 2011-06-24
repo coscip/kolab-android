@@ -3,6 +3,12 @@
 
 = Upcoming =
   * bugfixes, analyzed crash reports
+  * Diagnostic Dump
+  * Syncing Contacts rewritten, preserves unknown Entries now
+  * Improved Contact Editor
+  * Issue 51: Contact names not imported correctly - fixed, do not touch fullname
+  * Issue 49: URL (Website) item not being synced - implemented
+  * Know problem: No sync/edit of Postal Address
 
 = 0.7 =
 
