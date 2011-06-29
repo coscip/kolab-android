@@ -1,0 +1,30 @@
+#summary Diagnostic dump Feature
+
+= Introduction =
+
+To get internal information there is a Dump Diagnostic feature since version 0.8. Diagnostic Information is written to the SD-Card in the file "KolabDiagDump.txt".
+
+* No personal information, contact names will be saved. The only thing someone could read is your google email address and your name. Edit the file before sending, if you don't like it *
+
+
+= Details =
+
+How to create a Diag Dump:
+
+1) goto "Accounts & sync" -> Kolab Droid -> Settings
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/01.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/04.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/05.png]
+
+2) Hit the Menu key & select "Diag. Dump"
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/23.png]
+
+3) A Toast should report success. If the SD Card is not available (because it's used by your PC) an error is reported
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/24.png]
+
+4) Connect your phone to your PC, pick up the file and send it to a person/group you trust.
+
+4a) Step 4 can also be done on your phone directly ;-)
