@@ -57,4 +57,28 @@ Open this Account and hit "KolabDroid settings"
 [http://kolab-android.googlecode.com/svn/wiki/docimages/05.png]
 [http://kolab-android.googlecode.com/svn/wiki/docimages/06.png]
 
-Edit your Settings
+Edit your Settings: Enter IMAP host, username and password. Then hit "Test IMAP settings and update folder lists"
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/07.png]
+
+If it was successful you can select your contacts and calendar IMAP folders. At the end you can choose the minimum sync interval to save traffic and battery.
+
+Hit the Back Key to save your changes.
+
+Select the data sources you want to sync.
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/08.png]
+
+Sync should start now. If you hit "KolabDroid status" you can see the progress and logfile
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/09.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/10.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/11.png]
+
+Sync will be started, when android thinks it's time to sync. You can only configure the minimum interval.
+
+We didn't find a documentation about this topic, but we observed that a sync is started at leased once a day and when something has changed on your phone.
+
+Anyways, you can start a sync at any time by hitting the menu key and "Sync now"
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/12.png]
