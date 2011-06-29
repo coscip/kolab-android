@@ -13,11 +13,11 @@
   * Improved Contact Editor
   * Issue 51: Contact names not imported correctly - fixed, do not touch fullname
   * Issue 49: URL (Website) item not being synced - implemented
-  * Know problem: No sync/edit of Postal Address
+  * Know problem: Issue 34: No sync/edit of Postal Address
   * Know problem: Not syncing picture correctly
-  * Know problem: Contact Editor supports only a couple of phone numbers
-  * Know problem: Contact Editor supports only 3 EMail addresses
-  * Know problem: Calendar: recurring all day events are not handling end date correctly
+  * Know problem: Issue 57: Contact Editor supports only a couple of phone numbers
+  * Know problem: Issue 58: Contact Editor supports only 3 EMail addresses
+  * Know problem: Issue 23: Calendar: recurring all day events are not handling end date correctly
   * Be aware, Version 0.7 and/or 0.6 screwed up some phone numbers (in one case 9 of 112). They will/are lost during the next sync.
 
 = 0.7 =
