@@ -31,6 +31,8 @@ As a synchronisation provider, !KolabDroid keeps your contacts and calendar even
 
 = Installation = 
 
+Since this is only a developer preview, the app is not distributed via the market and you have to enable "Settings" -> "Applications" -> "Unknown sources". To reduce the security risk from this setting, you can disable it after installing the app.
+
 You have 3 options:
 
   * Use the QR Code on the [http://code.google.com/p/kolab-android/downloads/list download page]
