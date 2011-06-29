@@ -15,14 +15,10 @@ Before you start:
 Yeah, the first topic. This is a development version, troubles are expected!
 
   * Send issues
+  * Share your experience and problems on the mailing list http://groups.google.com/group/kolab-connector-discuss
   * I you know adb: use it
   * Use [ErrorReporting]
   * Use [DiagnosticDump]
-
+  * If you know Java and Eclipse: use it and send patches
 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
