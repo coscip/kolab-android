@@ -1,5 +1,5 @@
 #summary Overview of the synchronization algorithm
-#labels Featured,Phase-Implementation
+#labels Phase-Implementation
 
 The actual synchronization algorithm is almost independent of the actual source and destination, and totally independent of the synchronized data items.
 
