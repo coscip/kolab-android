@@ -112,3 +112,22 @@ Same procedure as with your phone book
 [http://kolab-android.googlecode.com/svn/wiki/docimages/19.png]
 [http://kolab-android.googlecode.com/svn/wiki/docimages/20.png]
 [http://kolab-android.googlecode.com/svn/wiki/docimages/21.png][http://kolab-android.googlecode.com/svn/wiki/docimages/22.png]
+
+= Editing Contacts =
+
+Developer at google seams to be friends of hardcoded stuff it the schedule is narrow. Due to this fact the default Contact Manager is not able to edit our contacts!
+
+* Note: Some other ROMS (like the A1 ROM for the RBM2) does support editing out contacts. It may work, or not *
+
+Thus we had to implement our own Contact Editor. That's why you'll be asked which editor to use.
+
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/25.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/26.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/27.png]
+
+Choose our.
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/28.png]
+
+
