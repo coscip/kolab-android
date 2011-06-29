@@ -1,0 +1,28 @@
+#summary How to use Kolab Droid
+
+= Introduction =
+
+This is a short document of how to use Kolab Droid.
+
+Before you start:
+
+  * Don't use it if you rely on it
+  * Have a Backup or use Test Data
+  * Know how to recover your contacts and calendar events
+
+= Troubleshooting =
+
+Yeah, the first topic. This is a development version, troubles are expected!
+
+  * Send issues
+  * I you know adb: use it
+  * Use [ErrorReporting]
+  * Use [DiagnosticDump]
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
