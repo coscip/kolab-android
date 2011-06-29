@@ -1,4 +1,5 @@
 #summary How to use Kolab Droid
+#labels Featured
 
 = Introduction =
 
@@ -39,3 +40,21 @@ You have 3 options:
 Since version 0.6 upgrades should make no troubles.
 
 = How to use it =
+
+
+After installation goto "Settings" -> "Accounts & sync"
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/01.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/02.png]
+
+Hit the menu key and add a new Account. If the Account already exists, nothing will happen. We support only one Account for now.
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/03.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/04.png]
+
+Open this Account and hit "KolabDroid settings"
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/05.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/06.png]
+
+Edit your Settings
