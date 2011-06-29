@@ -9,6 +9,7 @@ Before you start:
   * Don't use it if you rely on it
   * Have a Backup or use Test Data
   * Know how to recover your contacts and calendar events
+  * Read the [VersionHistory]
 
 = Troubleshooting =
 
@@ -22,3 +23,19 @@ Yeah, the first topic. This is a development version, troubles are expected!
   * If you know Java and Eclipse: use it and send patches
 
 = Details =
+
+Kolab Droid is a sync provider. That means, that there is no icon to launch the App. Instead you can configure it under "Settings" -> "Accounts & sync".
+
+The advantage of being a Sync Adapter is, that your contacts and calendar events are isolated from your other accounts (Google, Exchange, etc.). No data will be synced though the other Sync Accounts.
+
+= Installation = 
+
+You have 3 options:
+
+  * Use the QR Code on the download page
+  * Download the APK, save it on your SD Card and install it with an File Manager
+  * Download the APK and use 'adb install KolabDroid-...apk'
+
+Since version 0.6 upgrades should make no troubles.
+
+= How to use it =
