@@ -100,3 +100,15 @@ A list of all displayable accounts is shown. Choose "KolabDroid SyncAccount"
 [http://kolab-android.googlecode.com/svn/wiki/docimages/17.png]
 
 Hit "done" -> your contacts should be shown.
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/18.png]
+
+* We know that some has troubles at this point. Please send the [DiagnosticDump] file and screen shots to locate the problem*
+
+= Calendar =
+
+Same procedure as with your phone book
+
+[http://kolab-android.googlecode.com/svn/wiki/docimages/19.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/20.png]
+[http://kolab-android.googlecode.com/svn/wiki/docimages/21.png][http://kolab-android.googlecode.com/svn/wiki/docimages/22.png]
