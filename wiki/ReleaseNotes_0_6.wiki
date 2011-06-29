@@ -1,5 +1,5 @@
 #summary Release notes for Version 0.6
-#labels Featured
+#labels Deprecated
 
 = Introduction =
 
