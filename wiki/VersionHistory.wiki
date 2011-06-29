@@ -18,6 +18,7 @@
   * Know problem: Contact Editor supports only a couple of fields
   * Know problem: Contact Editor supports only 3 EMail addresses
   * Know problem: Calendar: recurring all day events are not handling end date correctly
+  * Be aware, Version 0.7 and/or 0.6 screwed up some phone numbers (in one case 9 of 112). They will/are lost during the next sync.
 
 = 0.7 =
 
