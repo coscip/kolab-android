@@ -2,9 +2,17 @@
 #labels Featured
 
 = Upcoming =
-  * Editor: Support all phone contact fields
-  * Editor: Support all email address fields
+  * Bugfixes
 
+= 0.9 =
+  * Editor: Support all phone contact fields
+  * Editor: Support 3 email address fields
+  * Editor: Support photos
+  * Editor: Implemented adding phone numbers to contacts out of call list
+  * Common: Better contact sync & management
+  * Common: Ignore already processed message id's from server. these are duplicated mails
+  * Common: Bugfixes
+  * Calendar: Fix Daylight Bug in Calendar, recurrent events and all day events should not shift anymore
 
 = 0.8 =
   * bugfixes, analyzed crash reports
